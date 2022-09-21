@@ -1,0 +1,19 @@
+{
+  "name": "rivera-patrick-jayvee-node-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSIT-3-1/Rivera-Patrick-Jayvee-node-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSIT-3-1/Rivera-Patrick-Jayvee-node-repo/issues"
+  },
+  "homepage": "https://github.com/BSIT-3-1/Rivera-Patrick-Jayvee-node-repo#readme"
+}
